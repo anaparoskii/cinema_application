@@ -1,0 +1,13 @@
+anaparoski|110904|Ana Paroski|Menadzer
+nikola|prodavac0|Nikola Petric|Prodavac
+mima_k|m1l3n4|Milena Kujovic|Prodavac
+ssofija|123456789|Sofija Stanojevic|Kupac
+danicapantovic|28052004|Danica Pantovic|Kupac
+zoric_s|zorics1|Sofija Zoric|Kupac
+komatovic_d|komatovicd1|Danica Komatovic|Kupac
+ignjatic_i|ignjatici1|Ivana Ignjatic|Kupac
+broceta_a|brocetaa1|Andjela Broceta|Kupac
+jovanic_m|jovanicm1|Milica Jovanic|Kupac
+vukovic_e|vukovice1|Elena Vukovic|Kupac
+tanja_prodavac|tanjaprodavac1|Tanja Paroski|Prodavac
+leksi|112233|Monika Geler|Kupac

@@ -1,0 +1,4 @@
+anaparoski|3|1050.0
+nikola|8|3200.0
+mima_k|2|800.0
+tanja_prodavac|0|0

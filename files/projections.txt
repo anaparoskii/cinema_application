@@ -1,0 +1,6 @@
+1000|A1|19:00|20:55|petak, subota, nedelja|How to Lose a Guy in 10 Days|400.00
+1001|A2|19:00|21:15|petak, subota, nedelja|Love Actually|400.00
+1002|A3|20:00|21:40|ponedeljak, sreda, petak|La Haine|400.00
+1003|A1|19:00|21:35|utorak, cetvrtak|Pulp Fiction|400.00
+1005|A2|20:00|21:55|ponedeljak, sreda, petak|Emma|400.00
+1006|A2|19:00|22:00|utorak, cetvrtak|Meet Joe Black|400.00
